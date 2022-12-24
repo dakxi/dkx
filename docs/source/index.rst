@@ -9,12 +9,12 @@ Welcome to Dogbird's documentation!
     :target: https://github.com/dakxi/dkx/
     
 
-| `Click here to view Shiki's manual！ <https://v2docs.kokona.tech/zh/latest/index.html>`__  
-| `Click here to view Shiki's forum！ <https://forum.kokona.tech/>`__  
-| `Click here to view OlivOS's forum！ <https://forum.olivos.run/>`__
+| `点击这里去Shiki手册！ <https://v2docs.kokona.tech/zh/latest/index.html>`__  
+| `点击这里去Dice!论坛！ <https://forum.kokona.tech/>`__  
+| `点击这里去OlivOS论坛！ <https://forum.olivos.run/>`__（手册可以在论坛里找到）
 .. note::
 
-   This project is under active development.
+   官方手册的骰娘介绍更完全，建议还知道骰娘或对骰娘不是很了解先去手册看一下
 
 Contents
 --------
