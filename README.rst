@@ -1,4 +1,4 @@
-Dpgbird's Dices documentation
+Dogbird's Dices documentation
 =======================================
 
 .. image:: https://readthedocs.org/projects/dkx/badge/?version=latest
