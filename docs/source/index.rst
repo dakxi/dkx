@@ -14,9 +14,9 @@ Welcome to Dogbird's documentation!
 | `点击这里去OlivOS论坛！ <https://forum.olivos.run/>`__
   （手册可以在论坛里找到）
 
-.. note::
+.. Note::
 
-   官方手册的骰娘介绍更完全，建议还知道骰娘或对骰娘不是很了解先去手册看一下
+   官方手册的骰娘介绍更完全，建议骰娘不是很了解的先去手册看一下，要查基本指令的也去那看
 
 Contents
 --------
