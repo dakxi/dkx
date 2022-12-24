@@ -9,4 +9,4 @@
 -----
 | **(以.bot为主，没空，所以不会实时更新)**
 
-.. image:: _static/Image_1
+.. image:: _static/Image_1.png
