@@ -1,8 +1,0 @@
-[build-system]
-requires = ["flit_core >=3.2,<4"]
-build-backend = "flit_core.buildapi"
-
-[project]
-name = "Dogbird's dices"
-authors = [{name = "DarkseaDogbird", email = "darksea_dogbird@qq.com"}]
-dynamic = ["1.0.0", "Dogbird's dices"]
