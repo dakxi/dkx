@@ -17,7 +17,8 @@
 基本功能
 ^^^^^^^
 
-详见 `Shiki用户手册 <https://v2docs.kokona.tech/zh/latest/User_Manual.html>`__  
+| 多克希主要为跑团服务
+| 详见 `Shiki用户手册 <https://v2docs.kokona.tech/zh/latest/User_Manual.html>`__  
 
 +-------+----------+---------+
 |       | Disabled | enabled |
@@ -32,3 +33,13 @@
 +-------+----------+---------+
 | .send |          |    √    |
 +-------+----------+---------+
+
+娱乐功能
+^^^^^^^
+
+| 多克希添加了一些娱乐功能，挺有趣的
+
+异世界行记
+"""""""""
+
+.. image:: _static/Image_2.png
