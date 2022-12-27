@@ -53,10 +53,14 @@
 暗夜独行/Alone Against the Dark
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-|单人本
+| 单人本
 .. image:: _static/Image_3.png
 
 向火独行
 ^^^^^^^
 
 .. image:: _static/Image_4.png
+
+.. warning::
+
+   单人本需要高频发送指令，容易触发警告&被拉黑，所以请少用这个，并且尽量拉开每个指令的发送间隔！
