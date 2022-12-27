@@ -61,6 +61,11 @@
 
 .. image:: _static/Image_4.png
 
+未名湖畔
+^^^^^^^
+
+.. image:: _static/Image_5.png
+
 .. warning::
 
    单人本需要高频发送指令，容易触发警告&被拉黑，所以请少用这个，并且尽量拉开每个指令的发送间隔！
