@@ -256,7 +256,7 @@ Listen2me
 爬，丢，赞，啃，舔，跑，cpdd，比心，牵，鄙视，你可能需要，吃，拍，锤，马冬梅
 后面加艾特，我这边就不一一试了
 
-.. image:: _static/Image_11.jpg
+.. image:: _static/Image_11.png
 
 漂流瓶
 ^^^^^^
@@ -295,7 +295,7 @@ bilibili查询
 
 触发方式很多，你们可以自己尝试，我这边就放两种（因为太长了，所以用平板截图了）
 
-.. image:: _static/Image_12.png
+.. image:: _static/Image_12.jpg
 
 数字炸弹
 ^^^^^^^
