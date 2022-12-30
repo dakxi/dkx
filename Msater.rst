@@ -1,4 +1,4 @@
-大家好，我是**多克悉多布**，同样也是鹓的master  
+大家好，我是 **多克悉多布**，同样也是鹓的master  
 
 多克悉多布 = DarkseaDogbird,多克希 = Darksea  
 
