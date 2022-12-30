@@ -233,6 +233,13 @@ Listen2me
 计时器clock
 ^^^^^^^^^^^
 
-指令：``.clock+秒``**（加号不用写出）**
+指令：``.clock+秒`` **（加号不用写出）**
 
 .. image:: _static/Image_8.png
+
+选择困难症
+^^^^^^^^^
+
+| 我该选什么？
+.. image:: _static/Image_8.png
+| 看来还是爱自己
