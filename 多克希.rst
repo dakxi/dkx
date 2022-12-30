@@ -206,11 +206,12 @@ Listen2me
 .. image:: _static/Image_7.png
 
 每日新闻60s
-^^^
-每日新闻小简报
+^^^^^^^^^^^
 
-使用《署名—非商业性使用—相同方式共享 4.0 协议国际版》（CC BY-NC-SA 4.0）进行授权
-https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.zh-Hans
+| 每日新闻小简报
+
+| 使用《署名—非商业性使用—相同方式共享 4.0 协议国际版》（CC BY-NC-SA 4.0）进行授权
+| https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.zh-Hans
 
 | 作者：简律纯
 | 联系方式：qq:A2C29K9
