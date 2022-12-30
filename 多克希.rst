@@ -187,6 +187,7 @@ Listen2me
 
 | 单轨示例
 ``l2m>A cdefgab``
+
 | 双轨示例
 
 ``l2m>``
