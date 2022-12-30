@@ -23,7 +23,6 @@ Contents
 
 .. toctree::
 
-   制作者
-   多克希
+   Master
+   Darksea
    Update
-   制作者
