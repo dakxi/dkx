@@ -293,7 +293,7 @@ Listen2me
 bilibili查询
 ^^^^^^^^^^^^
 
-触发方式很多，你们可以自己尝试，我这边就放两种（因为太长了，所以用平板截图了）
+触发方式很多，你们可以自己尝试，我这边就放两种（因为太长了，所以用平板截图）
 
 .. image:: _static/Image_12.jpg
 
@@ -301,3 +301,18 @@ bilibili查询
 ^^^^^^^
 
 .. image:: _static/Image_13.png
+
+AImage
+^^^^^^
+
+| 用AI画画！
+| 指令:
+   ``/i2i``：以图画图（image to image）可是当添加tags
+   ``/t2i``：以tags画图（tages to image）
+
+.. warning::
+   不得使用敏感tags，不得画任何不健康的东西！
+   
+.. tip::
+   | 想用这个功能请找Master
+   | 原贴： `AI画画！——基于stable-diffusion-webui的AI绘画脚本 <https://forum.kokona.tech/d/1552-aihua-hua-ji-yu-stable-diffusion-webuide-aihui-hua-jiao-ben>`__
