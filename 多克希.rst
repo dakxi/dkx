@@ -322,6 +322,7 @@ AImage
    | 出处： `AI画画！——基于stable-diffusion-webui的AI绘画脚本 <https://forum.kokona.tech/d/1552-aihua-hua-ji-yu-stable-diffusion-webuide-aihui-hua-jiao-ben>`__
    
 终于娱乐功能写完了，累死人
+
 .. note::
    打算写个每日签到
 
@@ -346,5 +347,23 @@ AImage
 - 死法
 
 就这么一点，有什么好建议直接来找master
+
 .. note::
    因为有写插件，这些抽取可以不用.draw，直接发就行了
+
+语句
+====
+
+检定
+----
+| 大成功：检定大成功！\n是救赎，还是毁灭？
+| 极难成功：极难成功！\n下次命运的天平可就不会轻易偏向你了
+| 困难成功：困难成功！\n继续前进吧，后路早已崩塌
+| 成功：成功!\n不错，继续保持你暂时理智的大脑吧
+| 失败：失败!\n拉莱耶伟大的主人将拯救您的梦境
+| 大失败： 大失败！\n木大木大木大木大木\n请问{pc}大人，可以开杀了吗
+
+Reply
+-----
+
+.. image:: _static/Image_14.png
