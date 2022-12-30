@@ -179,3 +179,14 @@
 
 .. note::
    介绍来自 `角色卡栏位扩展（状态、物品、笔记、法术、专长栏） <https://forum.kokona.tech/d/1221-gong-neng-mo-kuai-jiao-se-qia-lan-wei-kuo-zhan-zhuang-tai-wu-pin-bi-ji-fa-zhu-zhuan-chang-lan>`__
+
+Listen2me
+^^^^^^^^^
+
+使用MML作曲，懂的人可以来玩一玩
+
+单轨示例
+
+```
+ l2m>A cdefgab
+```
