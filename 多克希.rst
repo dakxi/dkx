@@ -229,3 +229,10 @@ Listen2me
 
 .. note::
    原贴：  `每日新闻60s <https://forum.kokona.tech/d/1107-zhi-ling-jiao-ben-mei-ri-xin-wen-60s>`__
+
+计时器clock
+^^^^^^^^^^^
+
+指令：``.clock+秒``**（加号不用写出）**
+
+.. image:: _static/Image_8.png
