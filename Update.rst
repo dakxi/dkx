@@ -9,4 +9,4 @@
 2023/1/6 23:55
 ==============
 | 我把kp写成pc了，有点好笑
-| 修改了一个小错误，弃用了趣味包
+| 修改了一个小错误，弃用了`趣味包 <https://dkx.readthedocs.io/zh/latest/Darksea.html#id27>`__
