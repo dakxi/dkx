@@ -311,8 +311,8 @@ AImage
 
 | 用AI画画！
 | 指令:
-   | ``/i2i``：以图画图（image to image）可适当添加tags
-   | ``/t2i``：以tags画图（tages to image）
+    | ``/i2i``：以图画图（image to image）可适当添加tags
+    | ``/t2i``：以tags画图（tages to image）
 
 .. warning::
    不得使用敏感tags，不得画任何不健康的东西！
